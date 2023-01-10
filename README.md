@@ -1,4 +1,4 @@
-Hello, Im Ray, I am a student at the University of Minnesota Twin Cities studying computer science. 
+Hello, Im Ray, I am a student at the University of Minnesota Twin Cities studying computer science and math with an emphasis on becoming a full-stack developer or work with some type of machine learning. 
 
 My expected graduation date is May of 2025 and I am actively looking for an opportunity to expand my skills and knowledge through an internship or part time position.
 

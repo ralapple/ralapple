@@ -1,8 +1,8 @@
 Hello, Im Ray, I am a recent graduate at the University of Minnesota Twin Cities with a BS in computer science. 
 
-I like to focus on full stack software engineering, designing apps with efficient architecture and interesting UI/UX. Some other things that interest me are the outdoors, sustainable living, and traveling as time permits.
+I enjoy using software to make my ideas come to life. I am currently focused on learning how to build small apps and deploy them to production.
 
-Feel free to reach out and connect!
+Feel free to reach out!
 
 
 <!---
